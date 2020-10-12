@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 theme = "hyde"
-title = "My New Hugo Site"
+title = "Marcelo García"
 [params]
 disqusShortname = ""
 googleAnalytics = ""

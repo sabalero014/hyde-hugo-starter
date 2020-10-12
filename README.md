@@ -1,6 +1,6 @@
 # Hyde
 
-Hyde is a brazen two-column [hugo](https://gohugo.io) theme based on the [Jekyll](http://jekyllrb.com) theme of the same name. It pairs a prominent sidebar with uncomplicated content.
+Hyde iumn [hugo](https://gohugo.io) theme based on the [Jekyll](http://jekyllrb.com) theme of the same name. It pairs a prominent sidebar with uncomplicated content.
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
@@ -8,7 +8,7 @@ Hyde is a brazen two-column [hugo](https://gohugo.io) theme based on the [Jekyll
 
 ### 1. Import
 
-To give you a running start this installation puts a fully configured [starter repo](https://github.com/forestryio/hyde-hugo-starter) into your Account and imports it into the [Forestry](https://forestry.io) Content Manager. 
+To give you a running start this installation puts a fully configured [starter repo](https://github.com/forestryio/hyde-hugo-starter) into your Account and imports it into the [Forestry](https://forestry.io) Content Manager.
 
 _Forestry Starter-Kit:_
 
@@ -86,7 +86,7 @@ Your site is completely editable in Forestry. The Hyde theme is a simple respons
 
 Pages and Posts are separated into two different categories.
 
-To create a new page or post click on *Create New* and select *Post* (or *Page* depending what section you are in). Enter a title and click *Create* to proceed to the editor. 
+To create a new page or post click on *Create New* and select *Post* (or *Page* depending what section you are in). Enter a title and click *Create* to proceed to the editor.
 
 ![](https://forestry.io/img/theme/create-new.png)
 
