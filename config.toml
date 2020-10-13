@@ -1,9 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 theme = "hyde"
-title = "Nina discos"
+title = "Marcelo García"
 [params]
-images = ![nico](https://raw.githubusercontent.com/sabalero014/hyde-hugo-starter/master/imagenes/nico_porron.jpg)
 description = "Esta es la descripción de la sidebar"
 disqusShortname = ""
 googleAnalytics = ""
