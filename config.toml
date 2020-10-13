@@ -3,6 +3,7 @@ languageCode = "en-us"
 theme = "hyde"
 title = "Marcelo García"
 [params]
+description = "Esta es la descripción de la sidebar"
 disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = false
